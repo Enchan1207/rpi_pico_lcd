@@ -1,4 +1,4 @@
-# pico-lcd-control
+# rpi_pico_lcd
 
 ## Overview
 
